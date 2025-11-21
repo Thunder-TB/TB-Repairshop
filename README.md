@@ -14,6 +14,9 @@ Whether you are running a small roadside garage or a massive tuner shop, TB-Repa
 
 • 🔒 Secure: Server-side checks to prevent exploitation.
 
+### 📸 Preview
+
+
 ### 📦 Dependencies
 
 Before installing TB-Repairshop, ensure you have the following resources installed:
