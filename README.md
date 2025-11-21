@@ -1,20 +1,20 @@
-🔧 TB-Repairshop
+<h1>TB-Repairshop</h1>
 
 A high-performance, immersive repair shop system for FiveM.
 
-📖 Description
+### 📖 Description
 
 TB-Repairshop is a fully optimized and feature-rich mechanic script designed to enhance the roleplay experience on your server. Gone are the days of simple "fix" commands; this script introduces a realistic diagnostic, repair, and modification system.
 
 Whether you are running a small roadside garage or a massive tuner shop, TB-Repairshop scales to your needs with extensive configuration options and a sleek, modern UI.
 
-****✨ Key Features****
+### ✨ Key Features
 
 • 📍 Multi-Location Support: Easily configure multiple mechanic shops (Benny's, LS Customs, private garages) in the config.lua.
 
 • 🔒 Secure: Server-side checks to prevent exploitation.
 
-📦 Dependencies
+### 📦 Dependencies
 
 Before installing TB-Repairshop, ensure you have the following resources installed:
 
@@ -22,7 +22,7 @@ Before installing TB-Repairshop, ensure you have the following resources install
 
 • Menu: qb-menu or ox_lib
 
-🚀 Installation
+### 🚀 Installation
 
 1. Download the source code or release from the GitHub repository.
 
@@ -38,7 +38,7 @@ ensure tb-repairshop
 
 5. Restart your server.
 
-****⚙️ Configuration****
+### ⚙️ Configuration
 
 All settings can be tweaked in ``config.lua.``
 
@@ -65,14 +65,14 @@ Config.blipCoords = {
 }
 ```
 
-****🎮 Usage****
+### 🎮 Usage
 
 • Billing: Use /bill [id] [amount] or access via the F6 Job Menu.
 
-****🤝 Contributing****
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-****📜 License****
+###📜 License
 
 Distributed under the MIT License. See LICENSE for more information.
 
