@@ -15,9 +15,7 @@ Whether you are running a small roadside garage or a massive tuner shop, TB-Repa
 • 🔒 Secure: Server-side checks to prevent exploitation.
 
 ### 📸 Preview
-<img width="1918" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00dd7830-dac5-46ec-a310-f4f7e61dfca7" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/74d50e04-bd35-4299-9859-82859f495e36" />
+![Image](https://github.com/user-attachments/assets/0ee71b36-98b6-4585-a655-496fc3d2c4cb)
 
 ### 📦 Dependencies
 
